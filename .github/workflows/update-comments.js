@@ -2,7 +2,7 @@
 import fs from "fs";
 import fetch from "node-fetch";
 
-const GITHUB_USER = "EEee1406"; // твой ник или организация
+const GITHUB_USER = "u7019134065-png"; // твой ник или организация
 const TOKEN = process.env.GITHUB_TOKEN; // токен создаст сам GitHub Actions
 const HEADERS = { 
   Authorization: `token ${TOKEN}`, 
